@@ -10,6 +10,16 @@
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">http:&#x2F;&#x2F;beiyuu.com&#x2F;github-pages</span><br></pre></td></tr></table></figure>
 
 <h4 id="解决图片导入问题"><a href="#解决图片导入问题" class="headerlink" title="解决图片导入问题"></a><a href="https://blog.csdn.net/weixin_30734435/article/details/98497054">解决图片导入问题</a></h4><p><a href="https://echoshanyushi.github.io/2020/02/07/34289/">next美化参考</a></p>
+<p><a href="https://blog.csdn.net/weixin_41800884/article/details/103750634">快速安装博客之主题更换</a></p>
+<h3 id="额外注意："><a href="#额外注意：" class="headerlink" title="额外注意："></a>额外注意：</h3><h4 id="问题：更改next主题后网页直接变成乱码，"><a href="#问题：更改next主题后网页直接变成乱码，" class="headerlink" title="问题：更改next主题后网页直接变成乱码，"></a><strong>问题：更改next主题后网页直接变成乱码，</strong></h4><h6 id="我在学习安装时全网基本没有这个问题的解决方案"><a href="#我在学习安装时全网基本没有这个问题的解决方案" class="headerlink" title="我在学习安装时全网基本没有这个问题的解决方案"></a><em>我在学习安装时全网基本没有这个问题的解决方案</em></h6><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;% extends &#39;_layout.swig&#39; %&#125; &#123;% import &#39;_macro&#x2F;post.swig&#39; as post_template %  等</span><br></pre></td></tr></table></figure>
+
+<p>hexo s –debug(测试)也提示warn(警告)</p>
+<p><strong>问题所在</strong>：版本不适，hexo和next版本不兼容（网上教程给的next下载链接都是旧版，改为最新版即可）</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">旧版本5以下安装指令：git clone https:&#x2F;&#x2F;github.com&#x2F;theme-next&#x2F;hexo-theme-next themes&#x2F;next</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">版本6安装指令：git clone https:&#x2F;&#x2F;github.com&#x2F;theme-next&#x2F;hexo-theme-next themes&#x2F;next</span><br></pre></td></tr></table></figure>
+
+<p><em>若6还不行，仅需去官方复制最新版地址即可；</em></p>
 <p>&emsp;</p>
 <p>&emsp;</p>
 <h2 id="想法："><a href="#想法：" class="headerlink" title="想法："></a>想法：</h2><p>多看多学</p>
