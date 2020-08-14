@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>个人博客建立参考</title>
-    <url>/2020/08/12/My-First-Post/</url>
+    <url>/2020/08/12/43345/</url>
     <content><![CDATA[<h2 id="教程参考链接"><a href="#教程参考链接" class="headerlink" title="教程参考链接"></a>教程参考链接</h2><h3 id="建议都打开里面个别讲的不完整综合一下就没什么问题了"><a href="#建议都打开里面个别讲的不完整综合一下就没什么问题了" class="headerlink" title="建议都打开里面个别讲的不完整综合一下就没什么问题了"></a>建议都打开里面个别讲的不完整综合一下就没什么问题了</h3><h5 id="hexo的next主题个性化配置教程"><a href="#hexo的next主题个性化配置教程" class="headerlink" title="hexo的next主题个性化配置教程"></a><a href="https://segmentfault.com/a/1190000009544924">hexo的next主题个性化配置教程</a></h5><h5 id="hexo史上最全搭建教程"><a href="#hexo史上最全搭建教程" class="headerlink" title="hexo史上最全搭建教程"></a><a href="https://blog.csdn.net/sinat_37781304/article/details/82729029">hexo史上最全搭建教程</a></h5><h5 id="如何用github-page搭建博客？"><a href="#如何用github-page搭建博客？" class="headerlink" title="如何用github page搭建博客？"></a><a href="https://www.zhihu.com/question/59088760">如何用github page搭建博客？</a></h5><h5 id="使用Github-Pages建独立博客"><a href="#使用Github-Pages建独立博客" class="headerlink" title="使用Github Pages建独立博客"></a><a href="http://beiyuu.com/github-pages">使用Github Pages建独立博客</a></h5><h4 id="解决图片导入问题"><a href="#解决图片导入问题" class="headerlink" title="解决图片导入问题"></a><a href="https://blog.csdn.net/weixin_30734435/article/details/98497054">解决图片导入问题</a></h4><p><a href="https://echoshanyushi.github.io/2020/02/07/34289/">next美化参考</a></p>
 <p><a href="https://blog.csdn.net/weixin_41800884/article/details/103750634">快速安装博客之主题更换</a></p>
 <h3 id="额外注意："><a href="#额外注意：" class="headerlink" title="额外注意："></a>额外注意：</h3><h4 id="问题：更改next主题后网页直接变成乱码，"><a href="#问题：更改next主题后网页直接变成乱码，" class="headerlink" title="问题：更改next主题后网页直接变成乱码，"></a><strong>问题：更改next主题后网页直接变成乱码，</strong></h4><h6 id="我在学习安装时全网基本没有这个问题的解决方案"><a href="#我在学习安装时全网基本没有这个问题的解决方案" class="headerlink" title="我在学习安装时全网基本没有这个问题的解决方案"></a><em>我在学习安装时全网基本没有这个问题的解决方案</em></h6><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;% extends &#39;_layout.swig&#39; %&#125; &#123;% import &#39;_macro&#x2F;post.swig&#39; as post_template %  等</span><br></pre></td></tr></table></figure>
@@ -20,7 +20,7 @@
   </entry>
   <entry>
     <title></title>
-    <url>/2020/08/14/page/</url>
+    <url>/2020/08/14/0/</url>
     <content><![CDATA[<hr>
 <script src="https://cdn1.lncld.net/static/js/av-core-mini-0.6.1.js"></script>
 <script>AV.initialize("", "");</script>  //需要写上leancloud的key
@@ -51,17 +51,18 @@
   </entry>
   <entry>
     <title>个人感想</title>
-    <url>/2020/08/12/%E8%B0%83%E4%BE%83%E6%84%9F%E8%B0%A2/</url>
+    <url>/2020/08/12/35659/</url>
     <content><![CDATA[<h1 id="在此特别感谢某人"><a href="#在此特别感谢某人" class="headerlink" title="在此特别感谢某人"></a>在此特别感谢某人</h1><h4 id="徐鹏林"><a href="#徐鹏林" class="headerlink" title="徐鹏林"></a>徐鹏林</h4><p>点名表扬</p>
 <p>是他时刻让我觉得建起一个别人能看到的东西有时候能多么的有意思</p>
 <p>比如：</p>
-<h1 id="emsp"><a href="#emsp" class="headerlink" title="&emsp;"></a>&emsp;</h1><h1 id="emsp-1"><a href="#emsp-1" class="headerlink" title="&emsp;"></a>&emsp;</h1><h1 id="emsp-2"><a href="#emsp-2" class="headerlink" title="&emsp;"></a>&emsp;</h1><p>&emsp;</p>
-<h1 id="emsp-3"><a href="#emsp-3" class="headerlink" title="&emsp;"></a>&emsp;</h1><h1 id="徐鹏林大傻逼"><a href="#徐鹏林大傻逼" class="headerlink" title="徐鹏林大傻逼"></a>徐鹏林大傻逼</h1><p>&emsp;</p>
+<a id="more"></a>
+
+<h1 id="徐鹏林大傻逼"><a href="#徐鹏林大傻逼" class="headerlink" title="徐鹏林大傻逼"></a>徐鹏林大傻逼</h1><p>&emsp;</p>
 <p>这份殊荣你值得拥有</p>
-<img src="/2020/08/12/%E8%B0%83%E4%BE%83%E6%84%9F%E8%B0%A2/wuzui.jpg" class title="This is an wuzui image">
+<img src="/2020/08/12/undefined/wuzui.jpg" class title="This is an wuzui image">
 
 
 
-<img src="/2020/08/12/%E8%B0%83%E4%BE%83%E6%84%9F%E8%B0%A2/example.png" class title="This is an example image">]]></content>
+<img src="/2020/08/12/undefined/example.png" class title="This is an example image">]]></content>
   </entry>
 </search>
