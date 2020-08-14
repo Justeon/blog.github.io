@@ -6,7 +6,7 @@
   <link href="https://justeon.github.io/atom.xml" rel="self"/>
   
   <link href="https://justeon.github.io/"/>
-  <updated>2020-08-13T19:53:44.377Z</updated>
+  <updated>2020-08-14T12:33:20.438Z</updated>
   <id>https://justeon.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://justeon.github.io/2020/08/14/page/"/>
+    <id>https://justeon.github.io/2020/08/14/page/</id>
+    <published>2020-08-14T12:25:52.314Z</published>
+    <updated>2020-08-14T12:33:20.438Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;hr&gt;
+&lt;script src=&quot;https://cdn1.lncld.net/static/js/av-core-mini-0.6.1.js&quot;&gt;&lt;/script&gt;
+&lt;script&gt;AV.initialize(&quot;&quot;, &quot;&quot;);&lt;/script&gt;  //需要写上leancloud</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>个人博客建立参考</title>
