@@ -6,7 +6,7 @@
   <link href="https://justeon.github.io/atom.xml" rel="self"/>
   
   <link href="https://justeon.github.io/"/>
-  <updated>2020-08-15T06:56:32.929Z</updated>
+  <updated>2020-08-24T16:29:58.302Z</updated>
   <id>https://justeon.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>justeon的自我学习</title>
+    <link href="https://justeon.github.io/2020/08/25/50050/"/>
+    <id>https://justeon.github.io/2020/08/25/50050/</id>
+    <published>2020-08-24T16:24:03.000Z</published>
+    <updated>2020-08-24T16:29:58.302Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://websec.readthedocs.io/zh/latest/&quot;&gt;web安全路线&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;成为大佬，要先学习大佬&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>个人博客建立参考</title>
