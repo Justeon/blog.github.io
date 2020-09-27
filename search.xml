@@ -7,6 +7,8 @@
 
 <h3 id="建议都打开里面个别讲的不完整综合一下就没什么问题了"><a href="#建议都打开里面个别讲的不完整综合一下就没什么问题了" class="headerlink" title="建议都打开里面个别讲的不完整综合一下就没什么问题了"></a>建议都打开里面个别讲的不完整综合一下就没什么问题了</h3><h5 id="hexo的next主题个性化配置教程"><a href="#hexo的next主题个性化配置教程" class="headerlink" title="hexo的next主题个性化配置教程"></a><a href="https://segmentfault.com/a/1190000009544924">hexo的next主题个性化配置教程</a></h5><h5 id="hexo史上最全搭建教程"><a href="#hexo史上最全搭建教程" class="headerlink" title="hexo史上最全搭建教程"></a><a href="https://blog.csdn.net/sinat_37781304/article/details/82729029">hexo史上最全搭建教程</a></h5><h5 id="如何用github-page搭建博客？"><a href="#如何用github-page搭建博客？" class="headerlink" title="如何用github page搭建博客？"></a><a href="https://www.zhihu.com/question/59088760">如何用github page搭建博客？</a></h5><h5 id="使用Github-Pages建独立博客"><a href="#使用Github-Pages建独立博客" class="headerlink" title="使用Github Pages建独立博客"></a><a href="http://beiyuu.com/github-pages">使用Github Pages建独立博客</a></h5><h4 id="解决图片导入问题"><a href="#解决图片导入问题" class="headerlink" title="解决图片导入问题"></a><a href="https://blog.csdn.net/weixin_30734435/article/details/98497054">解决图片导入问题</a></h4><p><a href="https://echoshanyushi.github.io/2020/02/07/34289/">next美化参考</a></p>
 <p><a href="https://blog.csdn.net/weixin_41800884/article/details/103750634">快速安装博客之主题更换</a></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="110" src="//music.163.com/outchain/player?type=1&id=92209803&auto=0&height=90"></iframe>
+
 <p><a href="http://51world.win/">大佬博客</a></p>
 <h3 id="额外注意："><a href="#额外注意：" class="headerlink" title="额外注意："></a>额外注意：</h3><h4 id="问题：更改next主题后网页直接变成乱码，"><a href="#问题：更改next主题后网页直接变成乱码，" class="headerlink" title="问题：更改next主题后网页直接变成乱码，"></a><strong>问题：更改next主题后网页直接变成乱码，</strong></h4><h6 id="我在学习安装时全网基本没有这个问题的解决方案"><a href="#我在学习安装时全网基本没有这个问题的解决方案" class="headerlink" title="我在学习安装时全网基本没有这个问题的解决方案"></a><em>我在学习安装时全网基本没有这个问题的解决方案</em></h6><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;% extends &#39;_layout.swig&#39; %&#125; &#123;% import &#39;_macro&#x2F;post.swig&#39; as post_template %  等</span><br></pre></td></tr></table></figure>
 
@@ -18,7 +20,7 @@
 
 <p><em>若6还不行，仅需去官方复制最新版地址即可；</em></p>
 <p>&emsp;</p>
-<h4 id="hexo-next主题中使用文章计数计时功能"><a href="#hexo-next主题中使用文章计数计时功能" class="headerlink" title="hexo next主题中使用文章计数计时功能"></a><a href="https://blog.csdn.net/fsh364943092/article/details/95593845">hexo next主题中使用文章计数计时功能</a></h4><h2 id="文本居中的引用"><a href="#文本居中的引用" class="headerlink" title="文本居中的引用"></a>文本居中的引用</h2><p>此标签将生成一个带上下分割线的引用，同时引用内文本将自动居中。 文本居中时，多行文本若长度不等，视觉上会显得不对称，因此建议在引用单行文本的场景下使用。 例如作为文章开篇引用 或者 结束语之前的总结引用。</p>
+<h4 id="hexo-next主题中使用文章计数计时功能"><a href="#hexo-next主题中使用文章计数计时功能" class="headerlink" title="hexo next主题中使用文章计数计时功能"></a><a href="https://blog.csdn.net/fsh364943092/article/details/95593845">hexo next主题中使用文章计数计时功能</a></h4><h2 id="文本居中的引用"><a href="#文本居中的引用" class="headerlink" title="文本居中的引用"></a>文本居中的引用</h2><p>&emsp;&emsp;此标签将生成一个带上下分割线的引用，同时引用内文本将自动居中。 文本居中时，多行文本若长度不等，视觉上会显得不对称，因此建议在引用单行文本的场景下使用。 例如作为文章开篇引用 或者 结束语之前的总结引用。</p>
 <h4 id="使用方式"><a href="#使用方式" class="headerlink" title="使用方式"></a>使用方式</h4><ul>
 <li>HTML方式：使用这种方式时，给 <code>img</code> 添加属性 <code>class=&quot;blockquote-center&quot;</code> 即可。</li>
 <li>标签方式：使用 <code>centerquote</code> 或者 简写 <code>cq</code>。</li>
@@ -27,7 +29,7 @@
 <p> <strong>标签调用方法</strong></p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;!-- HTML方式: 直接在 Markdown 文件中编写 HTML 来调用 --&gt;</span><br><span class="line">&lt;!-- 其中 class&#x3D;&quot;blockquote-center&quot; 是必须的 --&gt;</span><br><span class="line">&lt;blockquote class&#x3D;&quot;blockquote-center&quot;&gt;blah blah blah&lt;&#x2F;blockquote&gt;</span><br><span class="line"></span><br><span class="line">&lt;!-- 标签 方式，要求版本在0.4.5或以上 --&gt;</span><br><span class="line">&#123;% centerquote %&#125;blah blah blah&#123;% endcenterquote %&#125;</span><br><span class="line"></span><br><span class="line">&lt;!-- 标签别名 --&gt;</span><br><span class="line">&#123;% cq %&#125; blah blah blah &#123;% endcq %&#125;</span><br></pre></td></tr></table></figure>
 
-<h2 id="想法："><a href="#想法：" class="headerlink" title="想法："></a>想法：</h2><p>多看多学</p>
+<h2 id="想法："><a href="#想法：" class="headerlink" title="想法："></a>想法：</h2><p>&emsp;&emsp;多看多学</p>
 ]]></content>
   </entry>
   <entry>
@@ -37,20 +39,38 @@
 
 
 
-<p>成为大佬，要先学习大佬</p>
-<p><a href="https://websec.readthedocs.io/zh/latest/">web安全路线</a></p>
+<h4 id="成为大佬，要先学习大佬"><a href="#成为大佬，要先学习大佬" class="headerlink" title="成为大佬，要先学习大佬"></a>成为大佬，要先学习大佬</h4><p><a href="https://websec.readthedocs.io/zh/latest/">&emsp;&emsp;web安全路线</a></p>
+<p><a href="https://www.educoder.net/search?value=linux">&emsp;&emsp;linux实战训练推荐（入门也推）</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>我想起一些校事</title>
+    <url>/2020/09/27/32688/</url>
+    <content><![CDATA[<h5 id="校"><a href="#校" class="headerlink" title="校"></a><blockquote class="blockquote-center">校</blockquote></h5><h5 id><a href="#" class="headerlink" title></a><p></p></h5><a id="more"></a>
+
+<h4 id="今日值班"><a href="#今日值班" class="headerlink" title="今日值班"></a>今日值班</h4><p>&emsp;&emsp;我去食堂的路上她说请我喝可乐我直接说等我下（一开始只是顺路到宿舍先放下东西），到食堂后表示要先请她一杯奶茶，她果断拒绝，我明确说明她不要我也不敢收可乐，几句后他态度也很明确然后直接出了门，我以为她被我吓跑了就也回头打饭了，刚打完回头看她拿着雪碧和可乐问我要哪个，我这没办法直接拿了，然后她就走了，还没说几句。。。</p>
+<p>&emsp;&emsp;解锁成就：与不知名的女同学萍水相逢并畅聊<br>达成初级成就：与女同学找到共同兴趣——阴阳师<br>达成中级成就：遭遇突发事件，陪她提前逃校去踩点（学校无监控并能出去的地方并解锁该地点）<br>达成高级成就：送我去食堂吃饭（然后走了）<br>达成终极成就：收到女同学的一瓶可乐</p>
+<p align="right">——2020.09.27</p>]]></content>
+  </entry>
+  <entry>
+    <title>网络安全学习笔记</title>
+    <url>/2020/09/26/2816/</url>
+    <content><![CDATA[<h5 id="不要太小看我了-——-网络安全学习篇"><a href="#不要太小看我了-——-网络安全学习篇" class="headerlink" title="不要太小看我了  ——  网络安全学习篇"></a><blockquote class="blockquote-center">不要太小看我了  ——  网络安全学习篇</blockquote></h5><h5 id><a href="#" class="headerlink" title></a><p></p></h5><a id="more"></a>
+
+<p>&emsp;&emsp;前言：从头开始写也是开始记录的前几篇博客，记录一下，平时的笔记感觉还是和大佬们的区别太大了，总想着偷些懒复制粘贴一下，虽然内容有了，但实际还是没有雪进去的</p>
+<p>我们所要学习的东西并非烦冗的基础原理堆积，而在我们寻找学习资料时又难免遇到</p>
 ]]></content>
   </entry>
   <entry>
     <title>个人感想</title>
     <url>/2020/08/12/35659/</url>
-    <content><![CDATA[<h5 id="在此特别感谢某人"><a href="#在此特别感谢某人" class="headerlink" title="在此特别感谢某人"></a><blockquote class="blockquote-center">在此特别感谢某人</blockquote></h5><h4 id><a href="#" class="headerlink" title></a><a id="more"></a></h4><h4 id="徐鹏林"><a href="#徐鹏林" class="headerlink" title="徐鹏林"></a>徐鹏林</h4><p>点名表扬</p>
+    <content><![CDATA[<h5 id="在此特别感谢某人"><a href="#在此特别感谢某人" class="headerlink" title="在此特别感谢某人"></a><blockquote class="blockquote-center">在此特别感谢某人</blockquote></h5><h4 id><a href="#" class="headerlink" title></a><a id="more"></a></h4><h4 id="徐鹏林"><a href="#徐鹏林" class="headerlink" title="徐鹏林"></a>徐鹏林</h4><p>&emsp;&emsp;点名表扬</p>
 <p>是他时刻让我觉得建起一个别人能看到的东西有时候能多么的有意思</p>
 <p>比如：</p>
 <!--more-->
 
 <h1 id="徐鹏林大傻逼"><a href="#徐鹏林大傻逼" class="headerlink" title="徐鹏林大傻逼"></a>徐鹏林大傻逼</h1><p>&emsp;</p>
-<p>这份殊荣你值得拥有</p>
+<p>&emsp;&emsp;这份殊荣你值得拥有</p>
 <img src="/2020/08/12/35659/wuzui.jpg" class title="This is an wuzui image">
 
 
